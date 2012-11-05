@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+valid:
+  name: "abc def"
+  address: "abc, 123/3, sr. no., - 13242"
+  phone: "+911231231231"
+
+two:
+  name: MyString
+  address: MyString
+  phone: MyString
